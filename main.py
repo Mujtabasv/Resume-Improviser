@@ -6,7 +6,7 @@ st.title('Resume Improviser')
 st.header('Generates Information for Improvising your Resume.')
 
 
-openai.api_key= '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'
+openai.api_key= 'Your-Key-Here'
 
 
 role= st.text_input('Enter the Job Role')
